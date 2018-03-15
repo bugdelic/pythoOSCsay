@@ -1,4 +1,6 @@
+# python-oscを利用します。インストール必要です。
 # pip3 install python-osc 
+# ポートはデフォで1099です。python speech.pyで起動します。
 # example : oscer 127.0.0.1 1099 /talk "ここに文字"
 import argparse
 import math
